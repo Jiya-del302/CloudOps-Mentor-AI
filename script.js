@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/ask";
+const API_URL = "https://cloudops-mentor-ai-production.up.railway.app/ask";
 
 const seedMemories = [
     {
