@@ -116,9 +116,10 @@ def parcel_test():
         "confidence": result.confidence
     })
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     app.run(
-    host="0.0.0.0",
-    port=int(os.environ.get("PORT", 8080))
-)
+        host="0.0.0.0",
+        port=8000,
+        debug=True
+    )
 
