@@ -54,6 +54,9 @@ Parcle is used to:
 Enter Pro Deployment Link:  
 https://f5103f9600ce4e4b9a7d63d36defeb42.prod.enterapp.pro/
 
+live Demo Video:
+https://drive.google.com/file/d/1v6nz3BMJihfNSWEG566e1OgKbi0g0c0z/view?usp=drivesdk
+
 ---
 
 ## Running Locally
@@ -83,3 +86,6 @@ This project solves that limitation by introducing persistent memory for DevOps 
 
 ### Built by team Byte_Builders
 Quackathon 2026 Submission
+
+
+
