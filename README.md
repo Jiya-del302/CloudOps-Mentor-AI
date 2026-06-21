@@ -52,7 +52,7 @@ Parcle is used to:
 ## Live Demo
 
 Enter Pro Deployment Link:  
-[Add your Enter link here]
+https://f5103f9600ce4e4b9a7d63d36defeb42.prod.enterapp.pro/
 
 ---
 
